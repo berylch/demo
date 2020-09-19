@@ -61,4 +61,5 @@
 		<property name="dataSource" ref="dataSource" />
 	</bean>
 
+	<import resource="classpath:spring-activiti.xml"/>
 </beans>
